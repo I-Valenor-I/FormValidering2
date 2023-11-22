@@ -1,0 +1,42 @@
+.html-form {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    border-radius: 20px;
+    border-color: black;
+    max-width: 190px;
+    margin-left: 42%;
+}
+
+.center-numbers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+
+.input .username{
+    margin-top: 10px;
+}
+
+.input .email{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.input .password{
+    margin-bottom: 5px;
+}
+
+.center-tos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
